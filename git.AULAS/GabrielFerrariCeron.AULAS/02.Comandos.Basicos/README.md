@@ -15,6 +15,7 @@
 | Adicionando Varios Arquivos                         | `git add .` - `git add --all` - `git add -A`                                       |
 | Remover Apenas um Arquivo Adicionado                | `git rm --cached nome-do-arquivo.extensao`                                         |
 | Remover Todos os Arquivos Adicionados               | `git rm --cached -r .`                                                             |
+| Salvando Mudanças Nos Arquivos Adicionados          | `git commit -m "Mensagem"`                                                         |
 
 ---
 
