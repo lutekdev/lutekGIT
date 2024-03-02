@@ -12,5 +12,9 @@ Configurando Seu Usuario:
       - git config --global. user.email
   - Para Visualizar a Lista de Configurações:
       - git config --list
+  - Iniciando um Repositorio Numa Pasta:
+      - git init
+  - Mudar a Branch Principal para Outra (Personalizada):
+      - git config --global init.defaultBranch nome-da-branch
 ---
 
