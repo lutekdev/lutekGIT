@@ -1,7 +1,9 @@
-LOGO
+# Sobre Controle de Versão
+
+![alt](https://blog.da2k.com.br/uploads/2015/07/banner-git-e-github-ninja.jpg)
 ---
 
-O Que é Controle de Versão e Quais as Vantagens:
+### O Que é Controle de Versão e Quais as Vantagens:
   - Software capaz de gerenciar versões de qualquer tipo de arquivo.
 
   - Funcionalidades:
@@ -11,20 +13,20 @@ O Que é Controle de Versão e Quais as Vantagens:
       - Rastreabilidade.
 
 ---
-Tipos de Controle de Versão:
-  - Centralizado:
+### Tipos de Controle de Versão:
+  - **Centralizado**:
       - Servidor Contem todo o historico.
       - Padrão por muitos anos.
       - Sistemas Usados como Centrabilizado:
           - SubVersion.
           - Team Foundation Server (TFS).
           - Perforce.
-  - Descentralizado ou Destribuido:
+  - **Descentralizado ou Destribuido**:
       - Toda maquina possui uma copia do repositorio.
       - Mudanças são realizadas localmente.
       - Não depende de uma unica maquina.
 
-  - Caracteristicas do GIT:
+  - **Caracteristicas do GIT**:
       - Ações Locais.
       - Desenvolvimento Não Linear.
       - Integridade.
