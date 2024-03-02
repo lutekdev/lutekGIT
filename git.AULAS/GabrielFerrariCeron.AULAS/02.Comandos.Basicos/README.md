@@ -4,7 +4,7 @@
 
 | Titulo                                              | Comando                                                                                   |
 | --------------------------------------------------- | ----------------------------------------------------------------------------------------- |
-| Configurando Seu Usuario Global                     | `git config --global user.name "seu-nome"` - `git config --global user.email "seu-email"` |
+| Configurando Seu Usuario Global                     | `git config --global user.name "."` - `git config --global user.email "."` |
 | Remover as Informações do Usuario Global            | `git config --global --unset user.name` - `git config --global --unset user.email`        |
 | Visualizar as Informações                           | `git config --global user.name` - `git config --global. user.email"`                      |
 | Para Visualizar a Lista de Configurações            | `git config --list`                                                                       |
