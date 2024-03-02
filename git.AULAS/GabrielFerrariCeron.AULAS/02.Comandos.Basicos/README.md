@@ -1,4 +1,8 @@
 ---
+LOGO
+---
+
+---
 Configurando Seu Usuario:
   - Essas configurações são importantes pro git conseguir rastrear quem está fazendo as mudanças no repositorio.
   - Configurar as Informações:
@@ -17,4 +21,5 @@ Configurando Seu Usuario:
   - Mudar a Branch Principal para Outra (Personalizada):
       - git config --global init.defaultBranch nome-da-branch
 ---
+
 

@@ -1,4 +1,8 @@
 ---
+LOGO
+---
+
+---
 O Que é Controle de Versão e Quais as Vantagens:
   - Software capaz de gerenciar versões de qualquer tipo de arquivo.
 
@@ -29,4 +33,8 @@ Tipos de Controle de Versão:
       - Integridade.
       - Indepedencia da Complexidade do Projeto.
 ---
+
+
+
+
 
