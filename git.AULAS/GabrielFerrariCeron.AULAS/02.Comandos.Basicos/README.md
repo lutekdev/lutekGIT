@@ -13,6 +13,7 @@
 | Vendo o Status dos Commits Pendentes                | `git status`                                                                       |
 | Adicionando Apenas Um Arquivo                       | `git add "nome-do-arquivo.extensao"`                                               |
 | Adicionando Varios Arquivos                         | `git add .` - `git add --all` - `git add -A`                                       |
+| Voltar as Alterações Do Arquivo                     | `git restore --staged nome-do-arquivo.extensao`                                    |
 | Remover Apenas um Arquivo Adicionado                | `git rm --cached nome-do-arquivo.extensao`                                         |
 | Remover Todos os Arquivos Adicionados               | `git rm --cached -r .`                                                             |
 | Salvando Mudanças Nos Arquivos Adicionados          | `git commit -m "Mensagem"`                                                         |
