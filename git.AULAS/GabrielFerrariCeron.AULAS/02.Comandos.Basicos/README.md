@@ -4,14 +4,18 @@
 
 | Titulo                                              | Comando                                                                                                 |
 | --------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| Configurando Seu Usuario                            | `git config --global user.name "LutekDev"` and `git config --global user.email "seu-email@example.com"` |
-| Configurando Seu Usuario                            | `git config --global user.name "LutekDev"`and `git config --global user.email "seu-email@example.com"`  |
-| Remover as Informações                              | `git config --global --unset user.name` and `git config --global --unset user.email`                    |
-| Visualizar as Informações                           | `git config --global user.name` and `git config --global. user.email"`                                  |
+| Configurando Seu Usuario Global                     | `git config --global user.name "LutekDev"` AND `git config --global user.email "seu-email@example.com"` |
+| Configurando Seu Usuario Global                     | `git config --global user.name "LutekDev"` AND `git config --global user.email "seu-email@example.com"` |
+| Remover as Informações do Usuario Global            | `git config --global --unset user.name` AND `git config --global --unset user.email`                    |
+| Visualizar as Informações                           | `git config --global user.name` AND `git config --global. user.email"`                                  |
 | Para Visualizar a Lista de Configurações            | `git config --list`                                                                                     |
 | Iniciando um Repositorio Numa Pasta                 | `git init`                                                                                              |
 | Mudar a Branch Principal para Outra (Personalizada) | `git config --global init.defaultBranch nome-da-branch`                                                 |
-
+| Vendo o Status dos Commits Pendentes                | `git status`                                                                                            |
+| Adicionando Apenas Um Arquivo                       | `git add "nome-do-arquivo.extensao"`                                                                    |
+| Adicionando Varios Arquivos                         | `git add .` AND `git add --all` AND `git add -A`                                                        |
+| Remover Apenas um Arquivo Adicionado                | `git rm --cached nome-do-arquivo.extensao`                                                              |
+| Remover Todos os Arquivos Adicionados               | `git rm --cached -r .`                                                                                  |
 
 ---
 
